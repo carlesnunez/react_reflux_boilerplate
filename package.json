@@ -3,16 +3,8 @@
   "version": "0.0.0",
   "contributors": [
     {
-      "name": "Tomas Casquero",
-      "email": "tomcask@gmail.com"
-    },
-    {
       "name": "Carles Nuñez",
       "email": "carles.nunez@hotmail.es"
-    },
-    {
-      "name": "Adria ",
-      "email": "adrianrios89@gmail.com"
     }
   ],
   "devDependencies": {
@@ -45,7 +37,7 @@
     "reactify": "~1.1.1",
     "reflux": "^0.2.10",
     "bootstrap": "~3.3.5",
-    "jquery": "~2.1.4"
+    "jquery": "3.0.0"
   },
   "browserify": {
     "transform": [
